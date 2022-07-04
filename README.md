@@ -14,3 +14,11 @@ guild_id: [Your Guild ID]
 ```
 
 This project requires dependencies to run. These are detailed in `Pipfile`. You can use Pipenv to install them automatically (`pipenv install`), or install them yourself.
+
+### Using the Bot
+
+```cmd
+> cd fetch-roller
+> pipenv shell
+> python bot.py
+```
